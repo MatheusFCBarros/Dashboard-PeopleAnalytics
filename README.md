@@ -22,7 +22,7 @@ Oferecer um levantamento histórico sobre os dados dentro do cenário do respect
 
 Os dados foram classificados em
 
-Data admissão, data desligamento, Setor, cargo, data nascimento, motivo desligamento, esvcolardade entre outros.
+Data admissão, data desligamento, setor, cargo, data nascimento, motivo desligamento, escolaridade entre outros.
 
 ## Criação de calculos com funções DAX
 
