@@ -65,4 +65,4 @@ CALCULATE(
 ![Dashboard](https://github.com/MatheusFCBarros/Dashboard-PeopleAnalytics/blob/main/DashboardRH.png)
 
 
-Link para visualizar o Dashboard: https://bit.ly/3RLvwzz
+Link para visualizar o Dashboard: https://bit.ly/3CsBzU2
