@@ -1,6 +1,8 @@
 # Dashboard-PeopleAnalytics
 
 Dashboard com informações de dados de um RH
+
+![Dashboard](https://github.com/MatheusFCBarros/Dashboard-PeopleAnalytics/blob/main/DashboardRH.png)
  
 Nesse projeto eu realizei etapas como:
 
@@ -61,8 +63,6 @@ CALCULATE(
 )
     
 ## Personalização do layout do relatório
-
-![Dashboard](https://github.com/MatheusFCBarros/Dashboard-PeopleAnalytics/blob/main/DashboardRH.png)
 
 
 Link para visualizar o Dashboard: https://bit.ly/3CsBzU2
